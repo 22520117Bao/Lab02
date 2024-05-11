@@ -1,0 +1,72 @@
+D:\Lap trinh mang\luyen tap file stream\Lab2demo\Lab2demo\bin\Debug\Lab2demo.exe.config
+D:\Lap trinh mang\luyen tap file stream\Lab2demo\Lab2demo\bin\Debug\Lab2demo.exe
+D:\Lap trinh mang\luyen tap file stream\Lab2demo\Lab2demo\bin\Debug\Lab2demo.pdb
+D:\Lap trinh mang\luyen tap file stream\Lab2demo\Lab2demo\obj\Debug\Lab2demo.csproj.AssemblyReference.cache
+D:\Lap trinh mang\luyen tap file stream\Lab2demo\Lab2demo\obj\Debug\Lab2demo.Properties.Resources.resources
+D:\Lap trinh mang\luyen tap file stream\Lab2demo\Lab2demo\obj\Debug\Lab2demo.csproj.GenerateResource.cache
+D:\Lap trinh mang\luyen tap file stream\Lab2demo\Lab2demo\obj\Debug\Lab2demo.csproj.CoreCompileInputs.cache
+D:\Lap trinh mang\luyen tap file stream\Lab2demo\Lab2demo\obj\Debug\Lab2demo.exe
+D:\Lap trinh mang\luyen tap file stream\Lab2demo\Lab2demo\obj\Debug\Lab2demo.pdb
+D:\Lap trinh mang\luyen tap file stream\Lab2demo\Lab2demo\obj\Debug\Lab2demo.csproj.Up2Date
+D:\Lap trinh mang\luyen tap file stream\Lab2demo\Lab2demo\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Lap trinh mang\luyen tap file stream\Lab2demo\Lab2demo\bin\Debug\System.Buffers.dll
+D:\Lap trinh mang\luyen tap file stream\Lab2demo\Lab2demo\bin\Debug\System.Memory.dll
+D:\Lap trinh mang\luyen tap file stream\Lab2demo\Lab2demo\bin\Debug\System.Numerics.Vectors.dll
+D:\Lap trinh mang\luyen tap file stream\Lab2demo\Lab2demo\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\Lap trinh mang\luyen tap file stream\Lab2demo\Lab2demo\bin\Debug\System.Text.Encodings.Web.dll
+D:\Lap trinh mang\luyen tap file stream\Lab2demo\Lab2demo\bin\Debug\System.Text.Json.dll
+D:\Lap trinh mang\luyen tap file stream\Lab2demo\Lab2demo\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\Lap trinh mang\luyen tap file stream\Lab2demo\Lab2demo\bin\Debug\System.ValueTuple.dll
+D:\Lap trinh mang\luyen tap file stream\Lab2demo\Lab2demo\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+D:\Lap trinh mang\luyen tap file stream\Lab2demo\Lab2demo\bin\Debug\System.Buffers.xml
+D:\Lap trinh mang\luyen tap file stream\Lab2demo\Lab2demo\bin\Debug\System.Memory.xml
+D:\Lap trinh mang\luyen tap file stream\Lab2demo\Lab2demo\bin\Debug\System.Numerics.Vectors.xml
+D:\Lap trinh mang\luyen tap file stream\Lab2demo\Lab2demo\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\Lap trinh mang\luyen tap file stream\Lab2demo\Lab2demo\bin\Debug\System.Text.Encodings.Web.xml
+D:\Lap trinh mang\luyen tap file stream\Lab2demo\Lab2demo\bin\Debug\System.Text.Json.xml
+D:\Lap trinh mang\luyen tap file stream\Lab2demo\Lab2demo\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\Lap trinh mang\luyen tap file stream\Lab2demo\Lab2demo\bin\Debug\System.ValueTuple.xml
+D:\Lap trinh mang\luyen tap file stream\Lab2demo\Lab2demo\obj\Debug\Lab2demo.Bai6.resources
+D:\Lap trinh mang\luyen tap file stream\Lab2demo\Lab2demo\obj\Debug\Lab2demo.Bai1.resources
+D:\Lap trinh mang\luyen tap file stream\Lab2demo\Lab2demo\obj\Debug\Lab2demo.Bai2.resources
+D:\Lap trinh mang\luyen tap file stream\Lab2demo\Lab2demo\obj\Debug\Lab2demo.Bai3.resources
+D:\Lap trinh mang\luyen tap file stream\Lab2demo\Lab2demo\obj\Debug\Lab2demo.Bai4.resources
+D:\Lap trinh mang\luyen tap file stream\Lab2demo\Lab2demo\obj\Debug\Lab2demo.Bai5.resources
+D:\Lap trinh mang\luyen tap file stream\Lab2demo\Lab2demo\obj\Debug\Lab2demo.Bai7.resources
+D:\Lap trinh mang\luyen tap file stream\Lab2demo\Lab2demo\obj\Debug\Lab2demo.TongDuyet.resources
+D:\Lap trinh mang\Lab2_22520117\btLab2_22520117\Lab2demo\bin\Debug\Lab2demo.exe.config
+D:\Lap trinh mang\Lab2_22520117\btLab2_22520117\Lab2demo\bin\Debug\Lab2demo.exe
+D:\Lap trinh mang\Lab2_22520117\btLab2_22520117\Lab2demo\bin\Debug\Lab2demo.pdb
+D:\Lap trinh mang\Lab2_22520117\btLab2_22520117\Lab2demo\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Lap trinh mang\Lab2_22520117\btLab2_22520117\Lab2demo\bin\Debug\System.Buffers.dll
+D:\Lap trinh mang\Lab2_22520117\btLab2_22520117\Lab2demo\bin\Debug\System.Memory.dll
+D:\Lap trinh mang\Lab2_22520117\btLab2_22520117\Lab2demo\bin\Debug\System.Numerics.Vectors.dll
+D:\Lap trinh mang\Lab2_22520117\btLab2_22520117\Lab2demo\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\Lap trinh mang\Lab2_22520117\btLab2_22520117\Lab2demo\bin\Debug\System.Text.Encodings.Web.dll
+D:\Lap trinh mang\Lab2_22520117\btLab2_22520117\Lab2demo\bin\Debug\System.Text.Json.dll
+D:\Lap trinh mang\Lab2_22520117\btLab2_22520117\Lab2demo\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\Lap trinh mang\Lab2_22520117\btLab2_22520117\Lab2demo\bin\Debug\System.ValueTuple.dll
+D:\Lap trinh mang\Lab2_22520117\btLab2_22520117\Lab2demo\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+D:\Lap trinh mang\Lab2_22520117\btLab2_22520117\Lab2demo\bin\Debug\System.Buffers.xml
+D:\Lap trinh mang\Lab2_22520117\btLab2_22520117\Lab2demo\bin\Debug\System.Memory.xml
+D:\Lap trinh mang\Lab2_22520117\btLab2_22520117\Lab2demo\bin\Debug\System.Numerics.Vectors.xml
+D:\Lap trinh mang\Lab2_22520117\btLab2_22520117\Lab2demo\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\Lap trinh mang\Lab2_22520117\btLab2_22520117\Lab2demo\bin\Debug\System.Text.Encodings.Web.xml
+D:\Lap trinh mang\Lab2_22520117\btLab2_22520117\Lab2demo\bin\Debug\System.Text.Json.xml
+D:\Lap trinh mang\Lab2_22520117\btLab2_22520117\Lab2demo\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\Lap trinh mang\Lab2_22520117\btLab2_22520117\Lab2demo\bin\Debug\System.ValueTuple.xml
+D:\Lap trinh mang\Lab2_22520117\btLab2_22520117\Lab2demo\obj\Debug\Lab2demo.csproj.AssemblyReference.cache
+D:\Lap trinh mang\Lab2_22520117\btLab2_22520117\Lab2demo\obj\Debug\Lab2demo.Bai6.resources
+D:\Lap trinh mang\Lab2_22520117\btLab2_22520117\Lab2demo\obj\Debug\Lab2demo.Bai1.resources
+D:\Lap trinh mang\Lab2_22520117\btLab2_22520117\Lab2demo\obj\Debug\Lab2demo.Bai2.resources
+D:\Lap trinh mang\Lab2_22520117\btLab2_22520117\Lab2demo\obj\Debug\Lab2demo.Bai3.resources
+D:\Lap trinh mang\Lab2_22520117\btLab2_22520117\Lab2demo\obj\Debug\Lab2demo.Bai4.resources
+D:\Lap trinh mang\Lab2_22520117\btLab2_22520117\Lab2demo\obj\Debug\Lab2demo.Bai5.resources
+D:\Lap trinh mang\Lab2_22520117\btLab2_22520117\Lab2demo\obj\Debug\Lab2demo.Bai7.resources
+D:\Lap trinh mang\Lab2_22520117\btLab2_22520117\Lab2demo\obj\Debug\Lab2demo.Properties.Resources.resources
+D:\Lap trinh mang\Lab2_22520117\btLab2_22520117\Lab2demo\obj\Debug\Lab2demo.TongDuyet.resources
+D:\Lap trinh mang\Lab2_22520117\btLab2_22520117\Lab2demo\obj\Debug\Lab2demo.csproj.GenerateResource.cache
+D:\Lap trinh mang\Lab2_22520117\btLab2_22520117\Lab2demo\obj\Debug\Lab2demo.csproj.CoreCompileInputs.cache
+D:\Lap trinh mang\Lab2_22520117\btLab2_22520117\Lab2demo\obj\Debug\Lab2demo.csproj.Up2Date
+D:\Lap trinh mang\Lab2_22520117\btLab2_22520117\Lab2demo\obj\Debug\Lab2demo.exe
+D:\Lap trinh mang\Lab2_22520117\btLab2_22520117\Lab2demo\obj\Debug\Lab2demo.pdb
